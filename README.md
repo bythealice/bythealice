@@ -34,6 +34,4 @@ Atualmente, minha especialidade é unir **frontend moderno**, **UX estratégico*
 
 ## 📈 GitHub
 
-<a href="https://git.io/streak-stats">
-<img src="https://streak-stats.demolab.com?user=bythealice&theme=violet-dark&locale=pt-br"/>
-</a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=bythealice&theme=violet-dark&locale=pt_BR)](https://git.io/streak-stats)
