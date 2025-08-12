@@ -17,7 +17,7 @@ Atualmente, minha especialidade é unir **frontend moderno**, **UX estratégico*
 ## 🧠 Tecnologias que mais domino
 
 - **Frontend:** React, Next.js, Vue.js, Zustand, Redux, Tailwind CSS, Material-UI
-- **Backend:** Node.js, Express
+- **Backend:** Node.js, Express, Python 
 - **Bancos de dados:** MySQL, PostgreSQL, MongoDB
 - **Ferramentas:** Docker, Git, WebSocket, Figma
 
