@@ -32,6 +32,9 @@ Atualmente, minha especialidade é unir **frontend moderno**, **UX estratégico*
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
 </a>
 
-## 📈 GitHub
+## 📈 Status
+
+<a href="https://git.io/streak-stats"><img src="https://www.codewars.com/users/bythealice/badges/small" alt="Codewars Streak" /></a>
+<br>
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=bythealice&theme=violet-dark&locale=pt_BR" alt="GitHub Streak" /></a>
