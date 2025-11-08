@@ -37,6 +37,6 @@ Atualmente, minha especialidade é unir **frontend moderno**, **UX estratégico*
 <a href="https://git.io/streak-stats"><img src="https://www.codewars.com/users/bythealice/badges/small" alt="Codewars Streak" /></a>
 <br>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=bythealice&theme=github-dark-dimmed" alt="GitHub Streak" /></a>
+<a href="https://github-profile-trophy.vercel.app/?username=bythealice&theme=aura"><img src="https://github-profile-trophy.vercel.app/?username=bythealice&theme=nord&no-bg=true&no-frame=true&row=2&column=4&title=Commits,PullRequest,Issues,Repositories" alt="GitHub Status" /></a>
 
-<a href="https://github-profile-trophy.vercel.app/?username=bythealice&theme=aura"><img src="https://github-profile-trophy.vercel.app/?username=bythealice&theme=aura&row=2&column=3" alt="GitHub Status" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=bythealice&theme=github-dark-dimmed" alt="GitHub Streak" /></a>
